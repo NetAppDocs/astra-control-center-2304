@@ -38,6 +38,9 @@ This patch release (23.04.2) for Astra Control Center (23.04.0) provides support
 
 == 22 November 2022 (22.11.0)
 
+.Details
+[%collapsible]
+====
 .New features and support
 
 * https://docs.netapp.com/us-en/astra-control-center-2211/use/manage-apps.html#define-apps[Support for applications that span across multiple namespaces^]
@@ -50,10 +53,17 @@ This patch release (23.04.2) for Astra Control Center (23.04.0) provides support
 .Known issues and limitations
 * https://docs.netapp.com/us-en/astra-control-center-2211/release-notes/known-issues.html[Known issues for this release^]
 * https://docs.netapp.com/us-en/astra-control-center-2211/release-notes/known-limitations.html[Known limitations for this release^]
+====
+// End snippet
 
 == 8 September 2022 (22.08.1)
 
+.Details
+[%collapsible]
+====
 This patch release (22.08.1) for Astra Control Center (22.08.0) fixes minor bugs in app replication using NetApp SnapMirror.
+====
+// End snippet
 
 == 10 August 2022 (22.08.0)
 // Start snippet: collapsible block (open on page load)
