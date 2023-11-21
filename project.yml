@@ -1,6 +1,6 @@
 ---
 settings:
-  name: Astra Control Center 23.04 documentation
+  name: Astra Control Center
   downlevel: true
   internal:
     pdf_enabled: true
@@ -22,7 +22,7 @@ settings:
 
 sidebar:
   entries:
-    - title: Astra Control Center 23.04 documentation
+    - title: Astra Control Center 23.04 docs
       url: /index.html
     - section: release-notes
     - section: get-started
