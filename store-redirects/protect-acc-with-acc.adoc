@@ -1,0 +1,4 @@
+---
+permalink: use/protect-acc-with-acc.html
+redirect: astra-control-center-2304/index.html
+---
